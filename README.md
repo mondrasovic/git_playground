@@ -1,2 +1,3 @@
-# git_playground
-Repository dedicated to learning new git commands.
+# GIT Playground
+
+Repository dedicated to **learning** new `git` **commands**.
